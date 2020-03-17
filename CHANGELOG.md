@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/kpfromer/test-semvar/compare/v2.0.0...v2.1.0) (2020-03-17)
+
+
+### Features
+
+* add cool feature ([4c82bed](https://github.com/kpfromer/test-semvar/commit/4c82bed20a5cebda5eb09c40ef1dc0bf8f9ccc7e))
+
 # Changelog
 
 All notable changes to this project will be documented in this file.
